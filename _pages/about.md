@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![Illustration](./images/img.png){: .align-right width="300px"}
+![Illustration](./images/img.png)
 
 👨🏻‍💻 I'm a final year graduate student at the Arizona State University.
 
