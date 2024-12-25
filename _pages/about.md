@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![Illustration of gnns on dna](/images/image_to_text_vis.png){: .align-right width="300px"}
+![Illustration](/images/img.png){: width="300px"}
 
 👨🏻‍💻 I'm a final year graduate student at the Arizona State University.
 
