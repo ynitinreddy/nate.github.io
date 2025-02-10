@@ -8,4 +8,4 @@ In this project, I reproduced the classification results from the [Foundation Ar
 
 🚀 Simply put: I tested whether AI models trained using annotations from different sources, fine-tuned under various settings, outperform those trained on a single dataset. Since I was able reproduce the results from the original paper, my study confirmed that accruing and reusing knowledge from diverse annotations leads to stronger and more reliable medical image classification models.
 
-The code and study for my work can be found [here](https://github.com/ynitinreddy/ARK). I have also implemented the project on Kaggle for an easy understanding of the code and can be found [here](https://www.kaggle.com/code/ynitinreddy/chexpert-ark).
+The code and report for my work can be found [here](https://github.com/ynitinreddy/ARK). I have also implemented the project on Kaggle for an easy understanding of the code and can be found [here](https://www.kaggle.com/code/ynitinreddy/chexpert-ark).
