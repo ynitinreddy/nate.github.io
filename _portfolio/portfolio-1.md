@@ -1,6 +1,6 @@
 ---
 title: "Wildlife Detection from Aerial Images"
-excerpt: "Study on small instances detection using the novel CBAM-YOLOv7 model <br/><img src='cbam_yolo.jpg'>"
+excerpt: "Study on small instances detection using the novel CBAM-YOLOv7 model <br/><img src='cbam_yolo_1.jpg'>"
 collection: portfolio
 ---
 
